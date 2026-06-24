@@ -115,7 +115,7 @@ A static GitHub Pages IPTV platform optimized for Bangladesh BDIX network, with 
 
 - ISP bypass via Reality + SNI configuration
 - Railway Node.js + Xray deployment
-- Hardened panel security (custom paths, randomized subscriptions)
+- Hardened panel security
 
 `3X-UI` `VLESS` `Reality` `WireGuard` `Cloudflare`
 
@@ -156,7 +156,7 @@ Operational data management tools for a manufacturing company — defect trackin
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanvir-rayhan-akash&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=tanvir-rayhan-akash&theme=tokyonight&no-frame=true&column=4&margin-w=8" />
 
 </div>
 
