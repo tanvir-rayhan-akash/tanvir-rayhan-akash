@@ -1,59 +1,50 @@
 <div align="center">
 
-<!-- Animated header banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Tanvir+Rayhan+Akash+👋;Android+Hacker+%7C+KernelSU+Engineer;Self-Hosting+Nerd+%7C+Network+Tinkerer;Lazy+Panda+who+ships+code+🐼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=006A4E&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanvir+Rayhan+Akash+👋;Android+Systems+Developer;KernelSU+Module+Engineer;Self-Hosting+%26+Network+Enthusiast;Made+in+Bangladesh+🇧🇩)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Panda anime art via shields + text art combo -->
-```
-  ╭────────────────────────────────────────╮
-  │                                        │
-  │   (\_/)   zzZ . . .    T · R · A       │
-  │   (•ᴗ•)   "building stuff,             │
-  │   /|  |\   then napping"  🍵           │
-  │                                        │
-  ╰────────────────────────────────────────╯
-```
+[![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-006A4E?style=for-the-badge&labelColor=F42A41)](https://github.com/tanvir-rayhan-akash)
+[![Location](https://img.shields.io/badge/📍-Jessore,_Bangladesh-006A4E?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Status](https://img.shields.io/badge/🐼-Panda_Mode_ON-F42A41?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Views](https://komarev.com/ghpvc/?username=tanvir-rayhan-akash&style=for-the-badge&color=006A4E&label=Profile+Views&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
 
-[![Location](https://img.shields.io/badge/📍-Jessore%2C_Bangladesh-7C3AED?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
-[![Pronouns](https://img.shields.io/badge/he-him-FF6B9D?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
-[![Status](https://img.shields.io/badge/🐼-Panda_Mode_ON-06B6D4?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
-[![Views](https://komarev.com/ghpvc/?username=tanvir-rayhan-akash&style=for-the-badge&color=7C3AED&label=Profile+Views&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F42A41&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=006A4E&height=3&width=100%25" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
-name      : "Tanvir Rayhan Akash"
-alias     : "TRA"
-location  : "Jessore, Khulna, Bangladesh 🇧🇩"
-role      : "Android Systems Dev · Self-Hosting Nerd · Network Hacker"
-mobile_only: true   # no PC. just vibes and a phone keyboard 📱
-currently :
-  - 🔧 KernelSU module engineering (Proxy4KSU-TRA)
-  - 🌐 Self-hosting VPS + proxy infrastructure
-  - 📺 Building IPTV web platforms
-  - 📊 Excel automation for garment industry (Fashion Step Ltd.)
-  - 🐼 napping between commits
-superpower: "turning 'impossible on mobile' into 'shipped and tagged'"
+name       : "Tanvir Rayhan Akash"
+alias      : "TRA"
+location   : "Jessore, Bangladesh 🇧🇩"
+workplace  : "Fashion Step Ltd. — Gazipur, Bangladesh"
+role       : "Android Systems Developer · Network Engineer · Self-Hosting Enthusiast"
+focus      :
+  - Android kernel-level module development (KernelSU)
+  - Network proxy infrastructure and ISP bypass solutions
+  - Self-hosted VPS stack management
+  - Web platform development (IPTV, static sites)
+  - Excel automation and data management
+setup      : "Mobile-only workflow — no desktop, full productivity"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Systems & OS**
+**Systems & Root Environment**
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-7C3AED?style=for-the-badge&logo=linux&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-006A4E?style=for-the-badge&logo=linux&logoColor=white)
 
 **Languages**
 
@@ -62,7 +53,7 @@ superpower: "turning 'impossible on mobile' into 'shipped and tagged'"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Infra & Networking**
+**Infrastructure & Networking**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -74,45 +65,42 @@ superpower: "turning 'impossible on mobile' into 'shipped and tagged'"
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code_(mobile)-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔧 [Proxy4KSU-TRA](https://github.com/tanvir-rayhan-akash/Proxy4KSU-TRA)
-**KernelSU × Xray proxy module**
+**KernelSU × Xray Proxy Module**
 
-Embeds Xray core into the KernelSU root environment — system-level proxying with zero app layer.
+Embeds the Xray proxy core directly into the KernelSU root environment — system-level network proxying with no standalone app layer.
 
-- ⚡ Race condition fixes with shared lock
-- 🔁 Debounce logic for false-disconnect prevention  
-- 🌐 VLESS+Reality + tun2socks mode
-- 📡 DoH DNS (Cloudflare + Google)
-- 🛡️ Android 16 / non-GKI kernel compatible
+- Resolved race conditions between concurrent network monitors using a shared lock mechanism
+- Added debounce logic to filter transient network blips
+- VLESS+Reality + tun2socks mode support
+- DoH DNS (Cloudflare + Google) · Android 16 compatible
 
-`Shell` `KernelSU` `Xray` `SuSFS`
+`Shell` `KernelSU` `Xray` `SuSFS` `Android`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📺 TRA BDIX TV
-**Static IPTV web platform**
+**IPTV Web Platform**
 
-GitHub Pages IPTV site with HLS.js player, M3U playlist loader, category filters, PWA support.
+A static GitHub Pages IPTV platform optimized for Bangladesh BDIX network, with an HLS.js-powered player.
 
-- 🎨 Dark premium UI
-- 🔍 Channel search + 12 category types
-- ⭐ LocalStorage favorites
-- 📱 Mobile-first, virtual scrolling
-- 🐼 Built entirely on mobile
+- Dark premium UI with channel search
+- 12 category filters + PWA support
+- LocalStorage favorites + virtual scrolling
+- Built entirely on a mobile device
 
 `HTML` `CSS` `JavaScript` `HLS.js`
 
@@ -122,29 +110,27 @@ GitHub Pages IPTV site with HLS.js player, M3U playlist loader, category filters
 <td width="50%" valign="top">
 
 ### 🌐 VPS & Proxy Infrastructure
-**Self-hosted network stack**
+**Self-Hosted Network Stack**
 
-3X-UI panel on BDIX VPS with VLESS+Reality, WireGuard VPN, Cloudflare Workers proxy.
+3X-UI panel on BDIX VPS with VLESS+Reality, WireGuard VPN, and Cloudflare Workers proxy deployment.
 
-- 🔒 Instagram SNI for ISP bypass (Bangladesh)
-- 🚀 Railway Node.js + Xray deployment
-- ⚙️ WebSocket + TCP transport configs
-- 🔐 Hardened panel security
+- ISP bypass via Reality + SNI configuration
+- Railway Node.js + Xray deployment
+- Hardened panel security (custom paths, randomized subscriptions)
 
 `3X-UI` `VLESS` `Reality` `WireGuard` `Cloudflare`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Fashion Step Ltd. Tools
-**Excel automation & HR docs**
+### 📊 Fashion Step Ltd. — Data Tools
+**Excel Automation for Garment Manufacturing**
 
-Data management tools for garment manufacturing — defect tracking, training plans, CM calculations.
+Operational data management tools for a Bangladeshi garment factory — defect tracking, HR documentation, and production reporting.
 
-- 📈 Hourly defect trend bar charts
-- 👥 224-employee training schedule system
-- 🗂️ Multi-sheet workbook splitter
-- 📋 Bilingual Bengali/English forms
+- Hourly defect trend bar charts
+- 224-employee training schedule system
+- Bilingual HR forms and multi-sheet workbook tools
 
 `Excel` `Python` `docx` `Data Analysis`
 
@@ -154,22 +140,20 @@ Data management tools for garment manufacturing — defect tracking, training pl
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<!-- Stats card — similar to Asif's yellow card style -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-rayhan-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=FF6B9D&text_color=c9d1d9&ring_color=7C3AED" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-rayhan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-rayhan-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=006A4E&icon_color=F42A41&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-rayhan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=006A4E&text_color=c9d1d9" />
 
 <br/>
 
-<!-- Alpha stats card — same type as Asif's -->
-![TRA github stats](https://github-stats-alpha.vercel.app/api/?username=tanvir-rayhan-akash&cc=1a0a2e&ic=FF6B9D&bc=7C3AED&tc=FFFFFF)
+![TRA github stats](https://github-stats-alpha.vercel.app/api/?username=tanvir-rayhan-akash&cc=006A4E&ic=ffffff&bc=F42A41&tc=FFFFFF)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-rayhan-akash&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7C3AED&fire=FF6B9D&currStreakLabel=06B6D4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-rayhan-akash&theme=tokyonight&hide_border=true&background=0d0d1a&ring=006A4E&fire=F42A41&currStreakLabel=006A4E" />
 
 <br/>
 
@@ -179,7 +163,17 @@ Data management tools for garment manufacturing — defect tracking, training pl
 
 ---
 
-## 🌐 Find Me
+## Contribution Graph
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/tanvir-rayhan-akash/tanvir-rayhan-akash/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -192,27 +186,17 @@ Data management tools for garment manufacturing — defect tracking, training pl
 
 ---
 
-## 🐼 The Panda Corner
-
 <div align="center">
 
-```
-        (\_/)  •  (\_/)  •  (\_/)
-        (•ᴗ•)     (˘ᵕ˘)     (•ᵕ•)
-       /|   |\   /|   |\   /|   |\
-
-   "commit"    "nap"    "debug"    "nap again"
-
-   ~~~~~~~~~~~ panda dev cycle ~~~~~~~~~~~
-```
-
-> *"no PC? no problem. just a phone, some tea, 3% battery, and panda energy."*
-> — TRA, 3:00 AM
+<img src="https://capsule-render.vercel.app/api?type=rect&color=006A4E&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F42A41&height=3&width=100%25" />
 
 <br/>
 
-![snake animation](https://raw.githubusercontent.com/tanvir-rayhan-akash/tanvir-rayhan-akash/output/github-contribution-grid-snake-dark.svg)
+![Bangladesh](https://img.shields.io/badge/🇧🇩-Proud_Bangladeshi_Developer-006A4E?style=for-the-badge&labelColor=F42A41)
 
-<sub>*built with 🍵 tea + 💜 panda energy — TRA © 2025 | open to collabs on Android tooling, KernelSU, self-hosting, network proxy*</sub>
+<sub>Open to collaboration on KernelSU modules, Android system tooling, self-hosting, and network proxy projects.</sub>
+<br/>
+<sub>TRA © 2025 — Built with dedication from Bangladesh 🇧🇩</sub>
 
 </div>
