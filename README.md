@@ -1,16 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=006A4E&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanvir+Rayhan+Akash+👋;Android+Systems+Developer;KernelSU+Module+Engineer;Self-Hosting+%26+Network+Enthusiast;Made+in+Bangladesh+🇧🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanvir+Rayhan+Akash+👋;Android+Systems+Developer;KernelSU+Module+Engineer;Self-Hosting+%26+Network+Enthusiast;Building+from+Somewhere+on+Earth+🌍)](https://git.io/typing-svg)
 
 <br/>
 
-[![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-006A4E?style=for-the-badge&labelColor=F42A41)](https://github.com/tanvir-rayhan-akash)
-[![Location](https://img.shields.io/badge/🌍-Somewhere_On_Earth-006A4E?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
-[![Status](https://img.shields.io/badge/🐼-Panda_Mode_ON-F42A41?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
-[![Views](https://komarev.com/ghpvc/?username=tanvir-rayhan-akash&style=for-the-badge&color=006A4E&label=Profile+Views&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Identity](https://img.shields.io/badge/TRA-Unknown_Location-7C3AED?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Status](https://img.shields.io/badge/🐼-Panda_Mode_ON-7C3AED?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Views](https://komarev.com/ghpvc/?username=tanvir-rayhan-akash&style=for-the-badge&color=7C3AED&label=Profile+Views&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F42A41&height=3&width=100%25" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=006A4E&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=header&reversal=false" />
 
 </div>
 
@@ -43,7 +41,7 @@ setup      : "Mobile-only workflow — no desktop, full productivity"
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-006A4E?style=for-the-badge&logo=linux&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-7C3AED?style=for-the-badge&logo=linux&logoColor=white)
 
 **Languages**
 
@@ -94,7 +92,7 @@ Embeds the Xray proxy core directly into the KernelSU root environment — syste
 ### 📺 TRA BDIX TV
 **IPTV Web Platform**
 
-A static GitHub Pages IPTV platform optimized for Bangladesh BDIX network, with an HLS.js-powered player.
+A static GitHub Pages IPTV platform with an HLS.js-powered player, channel search, and category filters.
 
 - Dark premium UI with channel search
 - 12 category filters + PWA support
@@ -111,7 +109,7 @@ A static GitHub Pages IPTV platform optimized for Bangladesh BDIX network, with 
 ### 🌐 VPS & Proxy Infrastructure
 **Self-Hosted Network Stack**
 
-3X-UI panel on BDIX VPS with VLESS+Reality, WireGuard VPN, and Cloudflare Workers proxy deployment.
+3X-UI panel on VPS with VLESS+Reality, WireGuard VPN, and Cloudflare Workers proxy deployment.
 
 - ISP bypass via Reality + SNI configuration
 - Railway Node.js + Xray deployment
@@ -143,16 +141,16 @@ Operational data management tools for a manufacturing company — defect trackin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-rayhan-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=006A4E&icon_color=F42A41&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-rayhan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=006A4E&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-rayhan-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=a855f7&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-rayhan-akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c9d1d9" />
 
 <br/>
 
-![TRA github stats](https://github-stats-alpha.vercel.app/api/?username=tanvir-rayhan-akash&cc=006A4E&ic=ffffff&bc=F42A41&tc=FFFFFF)
+![TRA github stats](https://github-stats-alpha.vercel.app/api/?username=tanvir-rayhan-akash&cc=1a0a2e&ic=a855f7&bc=7C3AED&tc=FFFFFF)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-rayhan-akash&theme=tokyonight&hide_border=true&background=0d0d1a&ring=006A4E&fire=F42A41&currStreakLabel=006A4E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-rayhan-akash&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7C3AED&fire=a855f7&currStreakLabel=7C3AED" />
 
 <br/>
 
@@ -187,15 +185,10 @@ Operational data management tools for a manufacturing company — defect trackin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=006A4E&height=3&width=100%25" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F42A41&height=3&width=100%25" />
-
-<br/>
-
-![Bangladesh](https://img.shields.io/badge/🇧🇩-Proud_Bangladeshi_Developer-006A4E?style=for-the-badge&labelColor=F42A41)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" />
 
 <sub>Open to collaboration on KernelSU modules, Android system tooling, self-hosting, and network proxy projects.</sub>
 <br/>
-<sub>TRA © 2025 — Built with dedication from Bangladesh 🇧🇩</sub>
+<sub>TRA © 2025</sub>
 
 </div>
