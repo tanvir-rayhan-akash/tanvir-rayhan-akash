@@ -5,7 +5,7 @@
 <br/>
 
 [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-006A4E?style=for-the-badge&labelColor=F42A41)](https://github.com/tanvir-rayhan-akash)
-[![Location](https://img.shields.io/badge/📍-Jessore,_Bangladesh-006A4E?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
+[![Location](https://img.shields.io/badge/🌍-Somewhere_On_Earth-006A4E?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
 [![Status](https://img.shields.io/badge/🐼-Panda_Mode_ON-F42A41?style=for-the-badge&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
 [![Views](https://komarev.com/ghpvc/?username=tanvir-rayhan-akash&style=for-the-badge&color=006A4E&label=Profile+Views&labelColor=0d0d1a)](https://github.com/tanvir-rayhan-akash)
 
@@ -21,8 +21,7 @@
 ```yaml
 name       : "Tanvir Rayhan Akash"
 alias      : "TRA"
-location   : "Jessore, Bangladesh 🇧🇩"
-workplace  : "Fashion Step Ltd. — Gazipur, Bangladesh"
+location   : "Somewhere on Earth 🌍"
 role       : "Android Systems Developer · Network Engineer · Self-Hosting Enthusiast"
 focus      :
   - Android kernel-level module development (KernelSU)
@@ -123,10 +122,10 @@ A static GitHub Pages IPTV platform optimized for Bangladesh BDIX network, with 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Fashion Step Ltd. — Data Tools
-**Excel Automation for Garment Manufacturing**
+### 📊 Industrial Data Tools
+**Excel Automation for Manufacturing**
 
-Operational data management tools for a Bangladeshi garment factory — defect tracking, HR documentation, and production reporting.
+Operational data management tools for a manufacturing company — defect tracking, HR documentation, and production reporting.
 
 - Hourly defect trend bar charts
 - 224-employee training schedule system
